@@ -53,4 +53,10 @@ public class PermissionsCount
 	{
 		this.defaultNum = defaultNum;
 	}
+	
+	public String instanceMethod()
+	{
+		String str = "This is a line of code";
+		return str;
+	}
 }
